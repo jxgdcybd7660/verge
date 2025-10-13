@@ -155,3 +155,5 @@ Reporting a vulnerability
 ------------
 
 See [SECURITY.md](SECURITY.md)
+
+<!-- Auto-update: 2025-10-14T05:00:31.425788 -->
