@@ -18,3 +18,5 @@ prefixing the option with the network, such as:
 The `addnode=`, `connect=`, `port=`, `bind=`, `rpcport=`, `rpcbind=`
 and `wallet=` options will only apply to mainnet when specified in the
 configuration file, unless a network is specified.
+
+<!-- Auto-update: 2025-10-13T11:44:49.269247 -->
