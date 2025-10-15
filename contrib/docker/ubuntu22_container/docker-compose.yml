@@ -8,3 +8,5 @@ services:
       - "21102:21102"
     volumes:
     - ./conf/VERGE.conf:/root/.VERGE/VERGE.conf
+
+# Update: 2025-10-15
